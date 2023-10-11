@@ -1,4 +1,4 @@
-name: Website Deployment
+name: Website Deployment v.2 (continue-on-error)
 on:
   push:
     branches:
